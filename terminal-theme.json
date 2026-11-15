@@ -1,0 +1,24 @@
+{
+  "name": "Shan Shui Everforest",
+  "base": "light",
+  "overrides": {
+    "claude": "#c0463c",
+    "claudeShimmer": "#d9776b",
+    "text": "#4a5b53",
+    "inactive": "#939f91",
+    "subtle": "#c9cdb4",
+    "success": "#6f8f2a",
+    "error": "#c0463c",
+    "warning": "#c98a1a",
+    "diffAdded": "#e0e7bd",
+    "diffRemoved": "#f3d9c9",
+    "diffAddedWord": "#c5d49a",
+    "diffRemovedWord": "#e8b4a0",
+    "diffAddedDimmed": "#eef0d4",
+    "diffRemovedDimmed": "#f7e6da",
+    "planMode": "#3f8f78",
+    "autoAccept": "#6f8f2a",
+    "bashBorder": "#7a8f6a",
+    "promptBorder": "#a5b09a"
+  }
+}

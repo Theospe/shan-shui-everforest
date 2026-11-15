@@ -1,0 +1,11 @@
+{
+  "name": "shan-shui-everforest",
+  "owner": { "name": "Theospe" },
+  "plugins": [
+    {
+      "name": "shan-shui-everforest",
+      "source": "./",
+      "description": "Ink-wash mountain landscape look for Claude Desktop in Everforest colors, light and dark."
+    }
+  ]
+}
