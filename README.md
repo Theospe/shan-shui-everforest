@@ -10,6 +10,10 @@ A look for Claude Desktop: an ink-wash mountain landscape in the style of [Shan 
 
 Static renders of the generated scene (the live version drifts and animates). SVG sources: `docs/scene-light.svg`, `docs/scene-dark.svg`.
 
+### In Claude Desktop
+
+![Shan Shui Everforest in Claude Desktop](docs/screenshot.png)
+
 ## Install
 
 ```
