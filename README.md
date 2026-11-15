@@ -2,6 +2,14 @@
 
 A look for Claude Desktop: an ink-wash mountain landscape in the style of [Shan Shui Inf](https://github.com/LingDong-/shan-shui-inf), painted in [Everforest](https://github.com/sainnhe/everforest)-style colors. Parchment and pine-ink by day, deep forest by night, with hatched mountains, pagodas, huts, boats, twisting pines and slowly drifting mist behind the chat. Text panels are slightly frosted so output stays readable.
 
+## Preview
+
+| Day | Night |
+| --- | --- |
+| ![Day scene](docs/shan-shui-light.png) | ![Night scene](docs/shan-shui-dark.png) |
+
+Static renders of the generated scene (the live version drifts and animates). SVG sources: `docs/scene-light.svg`, `docs/scene-dark.svg`.
+
 ## Install
 
 ```
